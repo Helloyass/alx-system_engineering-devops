@@ -14,10 +14,10 @@ sylvain@ubuntu$ dig myschool.tech
 ;myschool.tech.     IN  A
 
 ;; ANSWER SECTION:
-myschool.tech.  7199    IN  A   184.72.193.201
+myschool.tech.  7199    IN  A   34.202.159.70
 
 ;; Query time: 65 msec
-;; SERVER: 8.8.8.8#53(8.8.8.8)
+;; SERVER: 34.202.159.70#34(202.159.70)
 ;; WHEN: Fri Aug 02 09:44:36 PDT 2019
 ;; MSG SIZE  rcvd: 65
 
