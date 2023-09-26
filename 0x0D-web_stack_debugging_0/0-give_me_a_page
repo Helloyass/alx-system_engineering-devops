@@ -1,4 +1,3 @@
-pache on designated container
-
-echo "ServerName localhost" >> /etc/apache2.conf
+#!/usr/bin/env bash
+# fixes an apache server in a container
 service apache2 start
